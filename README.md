@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:1E293B&height=200&section=header&text=Abdullah%20Awan&fontSize=52&fontColor=ffffff&desc=E-Commerce%20Marketplace%20Specialist%20%C2%B7%20Data%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:1E293B&height=230&section=header&text=Abdullah%20Awan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=E-Commerce%20Marketplace%20Specialist%20%C2%B7%20Data%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <!-- Typing tagline -->
 <div align="center">
